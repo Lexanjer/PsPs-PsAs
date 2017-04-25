@@ -1,0 +1,56 @@
+{
+  "checkList": [
+    {
+      "option": "1 option",
+      "checked": "SET"
+    },
+    {
+      "option": "DC Voltmeter Selector (Verify You Have A Minimum Of 22 Volts",
+      "checked": "BAT"
+    },
+    {
+      "option": "Verify Flaps Lever Matches Flap Position Indicator",
+      "checked": ""
+    },
+    {
+      "option": "Battery Switch",
+      "checked": "ON"
+    },
+    {
+      "option": "DC Voltmeter Selector (Verify You Have A Minimum Of 22 Volts",
+      "checked": "BAT"
+    },
+    {
+      "option": "AC Voltmeter Selector",
+      "checked": "GRD PWR"
+    },
+    {
+      "option": "Electric Hydraulic Pumps",
+      "checked": "OFF"
+    },
+    {
+      "option": "Standby Power Disconnect (1 & 2)",
+      "checked": "GUARDED"
+    },
+    {
+      "option": "Standby Power",
+      "checked": "AUTO/GUARDED"
+    },
+    {
+      "option": "Bus Transfer",
+      "checked": "AUTO/GUARDED"
+    },
+    {
+      "option": "Ground Power (Verify You Have A Minimum Of 115 Volts)",
+      "checked": "CONNECT/ON"
+    },
+    {
+      "option": "Landing Gear Lever",
+      "checked": "DOWN"
+    },
+    {
+      "option": "Verify Three Green Indicator Lights On. Three Red Indicator Lights Off",
+      "checked": "Check"
+    }
+  ]
+}

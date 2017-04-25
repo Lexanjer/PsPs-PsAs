@@ -1,0 +1,12 @@
+{
+  "lada_car": {
+    "type": "седан",
+    "model": "Kalina",
+    "manufacturer": "Lada"
+  },
+  "toyota_car": {
+    "type": "седан",
+    "model": "Camry",
+    "manufacturer": "Toyota"
+  }
+}

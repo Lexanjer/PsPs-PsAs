@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Checklist/Checklist.iml" filepath="$PROJECT_DIR$/Checklist/Checklist.iml" />
+      <module fileurl="file://$PROJECT_DIR$/PAdaptervcAradapter.iml" filepath="$PROJECT_DIR$/PAdaptervcAradapter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
+      <module fileurl="file://$PROJECT_DIR$/checkbeta/checkbeta.iml" filepath="$PROJECT_DIR$/checkbeta/checkbeta.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmentr/fragmentr.iml" filepath="$PROJECT_DIR$/fragmentr/fragmentr.iml" />
+      <module fileurl="file://$PROJECT_DIR$/p1251_viewpager/p1251_viewpager.iml" filepath="$PROJECT_DIR$/p1251_viewpager/p1251_viewpager.iml" />
+      <module fileurl="file://$PROJECT_DIR$/remaindme/remaindme.iml" filepath="$PROJECT_DIR$/remaindme/remaindme.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager3fragments/viewpager3fragments.iml" filepath="$PROJECT_DIR$/viewpager3fragments/viewpager3fragments.iml" />
+    </modules>
+  </component>
+</project>

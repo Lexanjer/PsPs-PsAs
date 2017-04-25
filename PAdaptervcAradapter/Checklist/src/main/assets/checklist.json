@@ -1,0 +1,53 @@
+[
+  {
+    "name": "PREF check & AFT OVERHEAD",
+    "items": [
+      {
+        "key": "1 option",
+        "value": "SET"
+      },
+      {
+        "key": "Flaps Lever",
+        "value": "UP"
+      },
+      {
+        "key": "Verify Flaps Lever Matches Flap Position Indicator",
+        "value": ""
+      }
+    ]
+  },
+  {
+    "name": "OVERHEAD PREPARATION",
+    "items": [
+      {
+        "key": "Standby Hydraulic: Low Quantity/Low Pressure Indicators",
+        "value": "OFF"
+      },
+      {
+        "key": "Land Altitude Indicator = Enter Destination Airport Altitude",
+        "value": ""
+      },
+      {
+        "key": "Exterior Lights",
+        "value": "AS REQUIRED"
+      }
+    ]
+  },
+  {
+    "name": "FORWARD PANEL & PEDESTAL",
+    "items": [
+      {
+        "key": "FMC",
+        "value": "PROGRAM"
+      },
+      {
+        "key": "Transponder",
+        "value": "TEST/SET/STANDBY"
+      },
+      {
+        "key": "Pre-Departure Briefing",
+        "value": "COMPLETE"
+      }
+    ]
+  }
+]

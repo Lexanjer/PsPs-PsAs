@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CheckBeta</string>
+    <string name="changetheme_btn">ChangeTheme</string>
+    <string name="restart_btn">Restart</string>
+</resources>

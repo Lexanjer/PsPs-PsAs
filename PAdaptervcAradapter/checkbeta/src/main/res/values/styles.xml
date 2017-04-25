@@ -1,0 +1,20 @@
+<resources>
+
+
+    <style name="AppTheme" parent="Theme.AppCompat.Light.NoActionBar"/>
+
+    <style name="AppDefault" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimary</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
+        <item name="colorControlNormal">@color/colorBlack</item>
+
+        <item name="colorAccent">@color/colorAccent</item>
+    </style>
+
+    <style name="AppDark" parent="AppTheme">
+        <item name="colorPrimary">@color/colorPrimaryAppDark</item>
+        <item name="colorPrimaryDark">@color/colorPrimaryDarkAppDark</item>
+
+    </style>
+
+</resources>
